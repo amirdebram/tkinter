@@ -1,0 +1,1 @@
+pyinstaller -F -w -i=./res/power.ico CrystalSwitch.py
